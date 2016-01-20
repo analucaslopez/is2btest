@@ -10,5 +10,12 @@ package com.acme.is2test;
  * @author YO
  */
 public class Main {
+    
     public void saludo (){
 }
+    
+    public void despedida () {
+        
+    }
+}
+
